@@ -1,5 +1,5 @@
 {
-  "name": "full-youtube",
+  "name": "youtube-2019",
   "version": "1.0.0",
   "description": "Cloning Youtube with Vanila and nodeJS",
   "main": "index.js",
