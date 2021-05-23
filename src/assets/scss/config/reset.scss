@@ -127,6 +127,10 @@ a {
   cursor: pointer;
 }
 
+a:visited {
+  color: white;
+}
+
 *,
 input {
   box-sizing: border-box;
